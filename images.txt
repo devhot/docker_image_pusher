@@ -1,1 +1,1 @@
-vulhub/activemq
+amd64/kong
